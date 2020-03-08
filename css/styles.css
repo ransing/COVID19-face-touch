@@ -1,0 +1,84 @@
+/* svg:hover .path-shape{
+    fill: green;
+    transform: scale(.9)
+}
+
+.path-shape{
+ transition: all 1s;
+} */
+
+.node-mouth{
+    /* overflow: auto;  */
+    /* transform: rotate(180deg) ; */
+    transform-origin:1130px 1580px;
+}
+/* 
+svg:hover .container .cat .smile{
+    transform: rotate(90deg);
+    fill: black
+} */
+
+.smile {
+    fill:#0884b9;
+    transform: rotate(180deg);
+    transform-origin:24px 37px;
+}
+
+svg:hover .smile {
+    fill:red;
+    transform: rotate(0deg);
+    transform-origin:24px 37px;
+}
+
+svg:hover .drool{
+    fill: rgb(255, 208, 0);
+}
+
+.container{
+    /* width: 100%; */
+    /* text-align: center; */
+    /* position: absolute; */
+    margin: 0 auto;
+    padding: 20px;
+    /* z-index: 15; */
+    /* display: flex; */
+    /* justify-content: center; */
+    cursor: url(./recur.gif), auto;
+    display: inline-block;
+}
+
+/* .cursor{
+    width: 40px;
+    height: 40px;
+} */
+
+.cat{
+    /* position: absolute; */
+    /* margin: 0 auto; */
+    /* padding: 20px; */
+    /* z-index: 15; */
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+svg:hover .hair{
+    fill: #d04029;
+}
+
+.no-js{
+    background: black;
+    text-align: center;
+    width: 100%;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-size: 15px;
+
+}
+
+h6{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
