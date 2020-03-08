@@ -1,2 +1,2 @@
-* This application is intended to help forster the habit of avoiding to touch your face. 
+* This application is intended to help foster the habit of avoiding to touch your face. 
 * Please find the blog [here](https://medium.com/@ransing/using-svg-to-help-prevent-spread-of-coronavirus-f4b159016a7a). 
